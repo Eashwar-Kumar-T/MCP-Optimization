@@ -1,0 +1,14 @@
+mcp
+langchain
+langchain-mcp-adapters
+langchain-groq
+duckduckgo-search
+arxiv
+googletrans
+python-dotenv
+streamlit
+pandas
+
+# Optional: for advanced paraphrasing (requires PyTorch)
+# transformers
+# torch
